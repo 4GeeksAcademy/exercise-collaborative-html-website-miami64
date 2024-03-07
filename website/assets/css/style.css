@@ -1,7 +1,17 @@
 body{
-    background: #333333;
+   background: #333333;
+}
+.img {
+    size: 100px;
+}
+.heading {
+    color:black
 }
 
+.heading span {
+    color: gray;
+}
+    
 .container{
    background-color: white;
    height: 1291px;
