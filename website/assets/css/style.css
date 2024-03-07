@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+   background: #333333;
 }
 .img {
     size: 100px;
@@ -10,9 +10,8 @@ body{
 
 .heading span {
     color: gray;
-    background: #333333;
 }
-
+    
 .container{
    background-color: white;
    height: 1291px;
