@@ -7,6 +7,14 @@ body{
 .heading {
     color:black
 }
+
 .heading span {
     color: gray;
+    background: #333333;
+}
+
+.container{
+   background-color: white;
+   height: 1291px;
+   width: 589px;
 }
