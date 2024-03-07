@@ -1,3 +1,12 @@
 body{
     background: #BDBDBD;
 }
+.img {
+    size: 100px;
+}
+.heading {
+    color:black
+}
+.heading span {
+    color: gray;
+}
